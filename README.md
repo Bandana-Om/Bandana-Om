@@ -123,7 +123,7 @@ Python project for basic file and folder protection.
 
 # 📜 Certifications
 
-🏆 **Summer AI Internship Program** — Citizen AI
+🏆 **Summer AI Internship Program** — GRIZON TECH
 
 🐍 **Python Programming Certification** — EduSkills
 
